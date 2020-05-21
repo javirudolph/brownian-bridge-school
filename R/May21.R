@@ -40,7 +40,7 @@ plot(seq(1,5000)/5000, path5th, type = "s")
 plot(seq(1,10000)/10000, path10th, type = "s")
 plot(seq(1,25000)/25000, path25th, type = "s")
 
-# This is how you get a difgusion process
+# This is how you get a diffusion process
 
 
 
